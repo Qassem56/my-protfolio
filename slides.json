@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Overview & Goals",
+    "image": "assets/1.png",
+    "description": "✅ This dashboard was built for a fictional retail company named **Global Trendz**, operating in the **Gulf region and Egypt**.\n\n✅ It provides a clean and professional interface to visualize sales performance, customer behavior, and regional trends.\n\n✅ The layout offers stakeholders a clear business overview and supports data-driven decision-making."
+  },
+  {
+    "title": "Insights & Detailing",
+    "image": "assets/2.png",
+    "description": "✅ Since attention to detail is critical in business reporting, this slide emphasizes **data-driven insights** through high-quality visualizations.\n\n✅ Each chart is designed to tell a story, supported with descriptive highlights and segmented KPIs.\n\n✅ The dashboard presents each business metric in a clear, concise, and insightful format to maximize client understanding."
+  },
+  {
+    "title": "Filters & Export Tools",
+    "image": "assets/3.png",
+    "description": "✅ To support usability and accessibility, we added **dynamic filters** so clients can focus on the exact information they need.\n\n✅ The dashboard also includes export options:\n• Clean Excel file 📊  \n• Downloadable PDF with full project summary 📄\n\n✅ These tools help users both explore and save insights with maximum convenience."
+  }
+]
